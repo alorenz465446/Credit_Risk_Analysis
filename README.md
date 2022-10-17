@@ -17,7 +17,7 @@ Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 
 ...
-
+...
 ## Analysis
 The report should contain the following:
 
